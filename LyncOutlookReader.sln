@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "outlookreader", "..\..\outlook\outlookreader\outlookreader.csproj", "{8F110B25-E9A9-482B-B561-725F97D2BC85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LyncReader", "LyncReader\LyncReader.csproj", "{CB657EA2-96E0-4C71-84EC-FADD7FBE358C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F110B25-E9A9-482B-B561-725F97D2BC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F110B25-E9A9-482B-B561-725F97D2BC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F110B25-E9A9-482B-B561-725F97D2BC85}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8F110B25-E9A9-482B-B561-725F97D2BC85}.Debug|x86.Build.0 = Debug|Any CPU
+		{8F110B25-E9A9-482B-B561-725F97D2BC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F110B25-E9A9-482B-B561-725F97D2BC85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F110B25-E9A9-482B-B561-725F97D2BC85}.Release|x86.ActiveCfg = Release|Any CPU
+		{8F110B25-E9A9-482B-B561-725F97D2BC85}.Release|x86.Build.0 = Release|Any CPU
+		{CB657EA2-96E0-4C71-84EC-FADD7FBE358C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB657EA2-96E0-4C71-84EC-FADD7FBE358C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB657EA2-96E0-4C71-84EC-FADD7FBE358C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CB657EA2-96E0-4C71-84EC-FADD7FBE358C}.Debug|x86.Build.0 = Debug|Any CPU
+		{CB657EA2-96E0-4C71-84EC-FADD7FBE358C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB657EA2-96E0-4C71-84EC-FADD7FBE358C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB657EA2-96E0-4C71-84EC-FADD7FBE358C}.Release|x86.ActiveCfg = Release|Any CPU
+		{CB657EA2-96E0-4C71-84EC-FADD7FBE358C}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ACB408C-26D7-4F89-8C25-3CD88E27FB93}
+	EndGlobalSection
+EndGlobal
